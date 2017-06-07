@@ -1,1 +1,2 @@
 # newsflash
+Typos found.
